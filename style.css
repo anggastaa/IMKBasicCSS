@@ -1,0 +1,41 @@
+body {
+	background-color: #8d8283	; 
+	font: 16px/20px arial, sans-serif;
+}
+.header{
+	padding: 10px;
+}
+.header ul li{
+	display: inline-block;
+	padding-right: 10px;
+}
+
+.header a{
+	text-decoration: none;
+	color: #e31120;
+}
+
+.header a:hover{
+	color: white;
+	background-color: #e31120;
+}
+.pengalaman, .jenjang, #matkul{
+	border-top: 1px solid;
+	padding: 10px;
+}
+
+.pengalaman{
+	background-color:white;
+	font-family: courier;
+	color: blue; 
+}
+.jenjang{
+	background-color: #eaeaea;
+	font-family: candara;
+	color: red; 
+}
+#matkul{
+	background-color: #bebebe;
+	font-family: georgia;
+	color: yellow; 
+}
